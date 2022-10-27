@@ -235,7 +235,7 @@ const Scenes = [
     {
         id: "Skradanie",
         text: 'Udało Ci się zakraść do auta. Jesteś bardzo blisko Dy-Ra. Co robisz?',
-        tlo: 'url("img/Atak.png")',
+        tlo: 'url("img/Uśmiech.png")',
         options: [
             {
                 text: 'Rozłącz akumulator! (akcja)',
@@ -313,7 +313,7 @@ const Scenes = [
     {
         id: "Sukces",
         text: 'Uszedłeś z życiem, brawo!',
-        tlo: 'url("img/Ucieczka.png")',
+        tlo: 'url("img/Korytarz.png")',
         options: [
             {
                 text: 'Zagraj jeszcze raz!',
