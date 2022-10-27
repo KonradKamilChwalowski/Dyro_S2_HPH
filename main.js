@@ -273,7 +273,7 @@ const Scenes = [
         options: [
             {
                 text: 'Uciekaj przez portal! (ucieczka)',
-                nextText: "Uczieczka"
+                nextText: "Ucieczka"
             }
         ]
     },
@@ -284,7 +284,7 @@ const Scenes = [
         options: [
             {
                 text: 'Uciekaj przez portal! (ucieczka)',
-                nextText: "Uczieczka"
+                nextText: "Ucieczka"
             }
         ]
     },
